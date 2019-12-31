@@ -1,0 +1,13 @@
+html,body { height:100% }
+
+h1 {
+   font-weight: 200; 
+}
+
+.space {
+  width:30px;
+  height: 30px;
+  stroke: black;
+  fill: blue;
+}
+
